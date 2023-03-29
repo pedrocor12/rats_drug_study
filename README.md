@@ -28,7 +28,7 @@ helps access on the first inference of the change in the mean weight (Figure 2) 
 the change in weight as the kurtosis is high, we can also assume that it has affected most of the 
 population
 
-# Image
+![Screenshot 2023-03-29 at 19 50 01](https://user-images.githubusercontent.com/57505565/228638680-039b6779-3d7d-47d7-816f-ae3421854faf.png)
 
 ### Observations for the Rats datasets before and after treatment:
 
