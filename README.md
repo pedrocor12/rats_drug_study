@@ -16,7 +16,7 @@ package:
 
 # Image
 
-#### Observations for the mice datasets before and after treatment:
+### Observations for the mice datasets before and after treatment:
 
 Evaluating the density graph (Figure 1). Notice the change of means which by has roughly changed 1.0 
 grams. The initial inference is that the nutritional treatment has affected the mice’s weights, and this can 
@@ -28,7 +28,7 @@ population
 
 # Image
 
-#### Observations for the Rats datasets before and after treatment:
+### Observations for the Rats datasets before and after treatment:
 
 The rats’ datasets are prevenient from a Weibull distribution function and by analyzing the plots density 
 plots (Figure 3). Notice the left tail, predominantly showing that the distributions generated are left
@@ -42,8 +42,9 @@ distribution. However, because of skewness we infer no normality of the data.
 
 ### Appropriateness for hypothesis t-testing
 
-### Quantitively and Qualitative analysis:
+#### Quantitively and Qualitative analysis:
 
+# Image
 
 
 
