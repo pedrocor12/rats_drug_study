@@ -1,7 +1,7 @@
 # Study of Weibull Distribution against a Normal distribution , finding if the treatment had an impact on rats or the mice datasets.
 
 
-#### Report :
+## Report :
 
 ### Data Generation:
 
