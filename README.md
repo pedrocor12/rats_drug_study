@@ -16,7 +16,7 @@ shape which I have set according to the specification.
 The following qplot and boxplot have been formulated from the sample data of the mice using the ggplot 
 package:
 
-![Screenshot 2023-03-29 at 19 42 24](https://user-images.githubusercontent.com/57505565/228638360-521efda7-4153-43a9-b63a-61a1ff569d6e.png)
+![Screenshot 2023-03-29 at 19 51 13](https://user-images.githubusercontent.com/57505565/228639005-18f5a442-4fd0-4003-b1f2-bd12afbc24ef.png)
 
 ### Observations for the mice datasets before and after treatment:
 
