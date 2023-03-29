@@ -46,5 +46,43 @@ distribution. However, because of skewness we infer no normality of the data.
 
 # Image
 
+QQplot allows to determine whether the data follows a theoretical distribution. Since many statistical 
+inference procedures assume we are sampling from a normally distributed population, it is important to 
+assess normality. The mice qqplot (figure 5), displays that there exists no significant departure from a 
+normal distribution. Signs of systematic deviations are not identified in the qqline which helps support 
+this quantitively conclusion for normality. Another test has been performed the Shapiro-Wilk-Test which 
+returns two values allowing to test for normality in the distribution and the one of interest for this 
+research is the p-value equal to 0.5337. 
+The following inequality helps us access the normality of the data when running the Shapiro-Wilk-Test:
+(No normality) p-value < 0.05 <= p-value (Normality)
+Figure 6 represents the qqplot for the rats’ distributions. Data prevenient from a Weibull distribution is 
+expected to have deviations from qqline as it is usually normally distributed. The test which allows to 
+further assists to assess normality for this case is the Shapiro Wilk test. Looking into the inequality present 
+above and the value return from the Shapiro function of p-value 8.588−5
+this value is lower than the 
+level of significance which safely helps on the inference of the fact that the data is not normally 
+distributed for the rat’s data sets where it is not possible to use parametric tests to prove the hypothesis as 
+the data needs to be normal distributed and, in this case, requiring non-parametric test to perform the 
+hypothesis test.
+
+### Hypothesis Testing:
+
+#### Mice distributions parametric test analysis
+
+#### T-Tests statistics:
+Statistically, an inferential test is useful when comparing the means of groups of data, such as when 
+testing hypotheses. It is being used for a paired test, in which the datasets are based on related groups of 
+mice before and after treatment. Using a t-test, we can compare a sample mean with a hypothetical value 
+or target value. The value of alpha or significance level for this research is 0.05.
+
+#### P-Value:
+
+The analysis of the t-test function data for the mice before and after treatment. Provides a p-value of 
+6.943−10 and this value is lower than alpha, which is the significance level. Due to the change in weight 
+of the mice, we can reject the null hypothesis, since it can be concluded from this value that the average 
+weight after the treatment, resulting in the presented p-value.
+
+Calculating the difference between the sample estimate which is the difference from the means before 
+and after divided by the weigh
 
 
