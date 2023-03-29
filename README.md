@@ -85,4 +85,6 @@ weight after the treatment, resulting in the presented p-value.
 Calculating the difference between the sample estimate which is the difference from the means before 
 and after divided by the weigh
 
+Concluding the acceptance of H0 as the p-value is less than 0.05, and rejection of the null hypothesis, 
+proving that the treatment makes the mice gain weight.
 
