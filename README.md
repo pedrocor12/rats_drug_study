@@ -86,9 +86,65 @@ weight after the treatment, resulting in the presented p-value.
 ![Screenshot 2023-03-29 at 19 56 55](https://user-images.githubusercontent.com/57505565/228640182-c9aa7b7b-f587-435d-a5b0-28f76034b896.png)
 
 
-Calculating the difference between the sample estimate which is the difference from the means before 
-and after divided by the weigh
-
-Concluding the acceptance of H0 as the p-value is less than 0.05, and rejection of the null hypothesis, 
+Concluding the acceptance of Ha as the p-value is less than 0.05, and rejection of the null hypothesis, 
 proving that the treatment makes the mice gain weight.
+
+#### Degrees of Freedom (df):
+
+This value is the number of independent pieces of information that went into calculating the estimate and 
+it is not the same number of items in the sample. The value of degrees of freedom is obtained by 
+subtracting 1 from the number of items. This value represents how many values are allowed to vary from
+the distribution created and represents in the mice distributions case all 199 values can vary. The value for 
+degrees of freedom also correlates with normality an in fact the more degrees of freedom we have the 
+closer the distribution is to a gaussian distribution. Given by the following formula:
+
+image
+
+#### Confidence interval:
+It is an estimate of an interval used in statistics, which contains a population parameter. This unknown 
+population parameter is found through a sample model calculated from the collected data.
+
+#### Rats’ distributions nonparametric test
+Wilcoxon-Test allows statistical inference without taking into assumption that the sample has been taken 
+from a particular distribution in this case the rats distribution is Weibull. As the distribution before the 
+test failed to pass the null hypothesis meaning the rejection of ��0, the alternative hypothesis is 
+considered, and a two tailed test must be performed for the analysis.
+The analysis of the t-test function data for the Rats before and after treatment. Provides a value of
+6.18−6
+, and similar to the mice distribution lower than alpha, which is the significance level. In fact, the 
+Rats’ weight rejects the null hypothesis, since it can be concluded from this value that the mice’s average 
+weight before treatment was significantly different from the mice’s average weight after treatment, 
+resulting in a significant p-value. Concluding that the supplement treatment makes the Rats gain weight.
+
+#### Fitting distributions
+Now that the hypothesis has been tested it is safe to fit other distributions and test for different plots and
+see what function best defines the random data which we are working with. For the case of this research, 
+we know which is the best distribution because we have created this distribution using a Weibull function. 
+
+#### Importance of the loglikelihood value:
+
+The loglikelihood is the parameter in which we have the most interest. The model with the 
+greatest loglikelihood is the one that best fits our distribution. When using this function, the 
+number of parameters must be considered, as with a lot of parameters, the model may overfit.
+The following graphs were obtained from the fitdist function:
+
+image
+
+
+#### Analyzing for the best fit distribution using the summaries and graphs: 
+
+The distribution with the highest likelihood was the Weibull distribution with the value of -942.0246. 
+Most of the plots present on (figure 7) reveal similarities between the distributions and this can be 
+identified by looking into the P-Plot which assesses how closely data sets agree. The empirical and 
+theoretical CDFs graph represents the probability distribution that would be obtained if the Rats samples 
+was sample from itself instead deriving from the population and We identify that the Weibull to be the 
+most suitable as it is the sample used to build this ECDF. We are testing against gamma and lognormal 
+distributions both share similarities as they are bounded at 0 to plus infinity so we know that there are no 
+negative values. The qqplot also reveals the best fit for this sample is the Weibull where there is not sign 
+of deviation from the qqline. The information analyzed and provided above is enough to support that the 
+Weibull distribution is a good choice since it has the highest likelihood and lowest BIC/AIC.
+
+
+
+
 
