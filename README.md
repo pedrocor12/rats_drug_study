@@ -83,6 +83,9 @@ The analysis of the t-test function data for the mice before and after treatment
 of the mice, we can reject the null hypothesis, since it can be concluded from this value that the average 
 weight after the treatment, resulting in the presented p-value.
 
+![Screenshot 2023-03-29 at 19 56 55](https://user-images.githubusercontent.com/57505565/228640182-c9aa7b7b-f587-435d-a5b0-28f76034b896.png)
+
+
 Calculating the difference between the sample estimate which is the difference from the means before 
 and after divided by the weigh
 
