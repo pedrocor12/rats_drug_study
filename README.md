@@ -39,8 +39,6 @@ is that weight have changed, however, compared to the mice population notice tha
 concentrated, and this can be identified by looking into the kurtosis which is not as high as the mice 
 distribution. However, because of skewness we infer no normality of the data.
 
-# Image
-
 
 ### Appropriateness for hypothesis t-testing
 
