@@ -46,7 +46,8 @@ distribution. However, because of skewness we infer no normality of the data.
 
 #### Quantitively and Qualitative analysis:
 
-# Image
+![Screenshot 2023-03-29 at 19 52 42](https://user-images.githubusercontent.com/57505565/228639492-ddb44140-f419-421b-9e1a-f753d597c9a4.png)
+
 
 QQplot allows to determine whether the data follows a theoretical distribution. Since many statistical 
 inference procedures assume we are sampling from a normally distributed population, it is important to 
