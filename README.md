@@ -1,4 +1,4 @@
-# Study of Weibull Distribution against a Normal distribution , finding if the treatment had an impact on rats or the mice datasets.
+# Statistical Analysis of Mice and Rats Datasets Generated from Continuous Probability Distributions.
 
 [CODE](https://github.com/pedrocor12/rats_drug_study/blob/main/rscript.R)
 
