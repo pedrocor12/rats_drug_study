@@ -1,6 +1,6 @@
 # Study of Weibull Distribution against a Normal distribution , finding if the treatment had an impact on rats or the mice datasets.
 
-Code : [https://github.com/pedrocor12/rats_drug_study/blob/main/rscript.R]
+[CODE][https://github.com/pedrocor12/rats_drug_study/blob/main/rscript.R]
 
 
 ## Report :
