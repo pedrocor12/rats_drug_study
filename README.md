@@ -129,7 +129,7 @@ greatest loglikelihood is the one that best fits our distribution. When using th
 number of parameters must be considered, as with a lot of parameters, the model may overfit.
 The following graphs were obtained from the fitdist function:
 
-image
+![Screenshot 2023-03-29 at 20 05 56](https://user-images.githubusercontent.com/57505565/228642155-1562738e-1333-429b-9659-ac96f5af1a9b.png)
 
 
 #### Analyzing for the best fit distribution using the summaries and graphs: 
