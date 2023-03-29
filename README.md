@@ -1,5 +1,3 @@
-# Study on Weibull and normal Distrubition 
+# Study of Weibull Distribution against a Normal distribution
 
-I evaluate a rats data set comparing if the treatment has an impact on their weight 
-
-Report written :  
+## Comparing the difference in weights
