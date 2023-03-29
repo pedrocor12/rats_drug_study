@@ -1,6 +1,5 @@
-# Study of Weibull Distribution against a Normal distribution
+# Study of Weibull Distribution against a Normal distribution , finding if the treatment had an impact on rats or the mice datasets.
 
-### Comparing if the treatment had an impact of on the weight of the mice 
 
 #### Report :
 
