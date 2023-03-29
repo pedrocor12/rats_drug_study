@@ -12,3 +12,15 @@ rooted the variance value as rnorm takes the standard deviation as one of the pa
 shape which I have set according to the specification.
 The following qplot and boxplot have been formulated from the sample data of the mice using the ggplot 
 package:
+
+# Image
+
+#### Observations for the mice datasets before and after treatment:
+
+Evaluating the density graph (Figure 1). Notice the change of means which by has roughly changed 1.0 
+grams. The initial inference is that the nutritional treatment has affected the mice’s weights, and this can 
+be further identified by looking the difference of skewness between the density plots, which tells us how 
+much the data differs from the symmetrical bell curve. Additionally, the median presented on the boxplot
+helps access on the first inference of the change in the mean weight (Figure 2) and (Figure 1) shows us 
+the change in weight as the kurtosis is high, we can also assume that it has affected most of the 
+population
