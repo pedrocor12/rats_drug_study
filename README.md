@@ -98,7 +98,8 @@ the distribution created and represents in the mice distributions case all 199 v
 degrees of freedom also correlates with normality an in fact the more degrees of freedom we have the 
 closer the distribution is to a gaussian distribution. Given by the following formula:
 
-image
+![Screenshot 2023-03-29 at 20 04 12](https://user-images.githubusercontent.com/57505565/228641858-2680bfb9-353a-4baf-b865-88825e53d383.png)
+
 
 #### Confidence interval:
 It is an estimate of an interval used in statistics, which contains a population parameter. This unknown 
